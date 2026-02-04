@@ -1,21 +1,84 @@
+# BMI Calculator App (Flutter)
 
-# bmi_calculator
+A simple, fast, and user-friendly BMI (Body Mass Index) Calculator built with Flutter.
+This app helps users quickly calculate their BMI based on height and weight and understand their health category instantly.
 
-A new Flutter project.
+# Features
 
-## Getting Started
+📏 Input height and weight easily
 
-This project is a starting point for a Flutter application.
+⚖️ Instant BMI calculation
 
-A few resources to get you started if this is your first Flutter project:
+🧮 Accurate BMI formula implementation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📊 Displays BMI category:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# BMI_Calculator
-A clean and modern BMI Calculator app built with Flutter, featuring a smooth animated splash screen, light &amp; dark themes, and a beautiful neumorphic-style UI.  The app allows users to calculate their Body Mass Index easily by selecting gender, height, weight, and age, with instant results and a polished user experience.
+## Underweight
 
+## Normal weight
+
+## Overweight
+
+# Obese
+
+🎨 Clean and responsive UI
+
+⚡ Fast performance on Android devices
+
+## Built With
+
+Flutter
+
+Dart
+
+## Material Design
+
+### BMI Formula Used
+BMI = weight (kg) / (height (m) × height (m))
+
+### Installation
+
+Clone the repository:
+
+git clone https://github.com/itxbunny-hissan/BMI_Calculator.git
+
+
+## Navigate to the project directory:
+
+cd BMI_Calculator
+
+
+## Install dependencies:
+
+flutter pub get
+
+
+# Run the app:
+
+flutter run
+
+# Use Case
+
+This app is ideal for:
+
+Fitness beginners
+
+Health-conscious users
+
+Flutter learning projects
+
+College or portfolio projects
+
+# Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repository and submit a pull request.
+
+# License
+
+This project is open-source and available under the MIT License.
+
+# Author
+
+M. Raees (itxbunny-hissan)
+GitHub: @itxbunny-hissan
