@@ -80,5 +80,5 @@ This project is open-source and available under the MIT License.
 
 # Author
 
-M. Raees (itxbunny-hissan)
+Mirza Hissan (itxbunny-hissan)
 GitHub: @itxbunny-hissan
