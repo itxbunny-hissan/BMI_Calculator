@@ -11,13 +11,13 @@ This app helps users quickly calculate their BMI based on height and weight and 
 
 🧮 Accurate BMI formula implementation
 
-📊 Displays BMI category:
+# Displays BMI category:
 
-## Underweight
+ Underweight
 
-## Normal weight
+ Normal weight
 
-## Overweight
+ Overweight
 
 # Obese
 
